@@ -1,0 +1,2 @@
+Requirements for Discord
+* Discord nickname must be set to your BattleTag. Instructions can be found on the link [here] (https://support.discordapp.com/hc/en-us/articles/219070107-Server-Nicknames "unknown")
